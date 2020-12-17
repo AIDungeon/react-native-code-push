@@ -40,7 +40,7 @@
     "hoist-non-react-statics": "^2.3.1",
     "inquirer": "^7.0.3",
     "plist": "3.0.1",
-    "semver": "^7.1.1",
+    "semver": "^7.3.2",
     "xcode": "1.0.0"
   },
   "devDependencies": {
